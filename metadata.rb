@@ -8,9 +8,5 @@ version          "2.0.0"
 
 recipe "htop", "Installs htop monitoring"
 
-depends "yum-repoforge"
-
 supports "debian"
 supports "ubuntu"
-supports "redhat"
-supports "centos"
